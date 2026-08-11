@@ -183,5 +183,5 @@ You would like to add something, have suggestions or just wanna give advice
 drop me here : dishabpps@gmail.com
 
 --👩🏻‍💻DISHA
-│   └── dashboard.png
+│   
 └── README.md
