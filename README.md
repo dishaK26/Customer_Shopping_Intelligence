@@ -3,7 +3,7 @@
 An end-to-end **Data Analytics project** analyzing customer shopping behavior to identify purchasing patterns, customer segments, product-category performance, and subscription behavior.
 
 Want to know about my project insights in brief, Refer this : "Documentation_Project_Shopping_Behavior.docx"
-
+---
 (file attached)
 ---
 
